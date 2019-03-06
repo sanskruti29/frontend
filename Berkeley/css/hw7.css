@@ -1,0 +1,13 @@
+/* Aligning the content of the body*/
+body {
+	text-align: center;
+}
+
+/* Styling the divQuery element*/
+#divJQuery {
+	background-color: silver;
+	width: 500px;
+	height: 100px;
+	margin: auto;
+	display: none;
+}
